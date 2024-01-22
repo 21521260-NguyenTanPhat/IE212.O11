@@ -3,10 +3,10 @@
 Đề tài đồ án: Dự đoán giá chứng khoán
 
 Danh sách thành viên nhóm
-  21521260 - Nguyễn Tấn Phát
-  21521046 - Lê Văn Cao Kỳ
-  21520386 - Võ Thị Tố Như
-  21520121 - Lê Thanh Tùng
+21521260 - Nguyễn Tấn Phát
+21521046 - Lê Văn Cao Kỳ
+21520386 - Võ Thị Tố Như
+21520121 - Lê Thanh Tùng
 
 Dữ liệu được thu thập từ trang https://finance.yahoo.com/
 
