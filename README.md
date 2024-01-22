@@ -1,4 +1,4 @@
-Đây là đồ án môn học IE212.O11 - Công nghệ dữ liệu lớn của nhóm sinh viên trường Đại học Công nghệ Thông tin
+Đây là đồ án môn học IE212.O11 - Công nghệ dữ liệu lớn của nhóm sinh viên trường Đại học Công nghệ Thông tin (UIT)
 
 Đề tài đồ án: Dự đoán giá chứng khoán
 
