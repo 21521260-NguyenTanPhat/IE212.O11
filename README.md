@@ -11,8 +11,7 @@ Danh sách thành viên nhóm
 Dữ liệu được thu thập từ trang https://finance.yahoo.com/
 
 HƯỚNG DẪN:
-1. Crawl dữ liệu bằng Crawl.ipynb và lưu file csv vào đường dẫn thích hợp
-2. Dùng test_train_split.ipynb để tách file dữ liệu thành tập train và test
-3. Mở kafka và chạy consumer, producer
-
-File Stock_price_prediction.ipynb chỉ để so sánh các model
+1. Tạo các folder checkpoint_NVDA, checkpoint_AAPL
+2. Khởi động kafka và tạo các topic AAPL, AAPLstream, NVDA, NVDAstream
+3. Chạy các file streaming.ipynb, AAPL_consumer.ipynb, NVDA_consumer.ipynb
+4. Chạy file AAPL_producer.ipynb, NVDA_producer.ipynb và xem kết quả ở file streaming.ipynb
